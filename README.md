@@ -22,8 +22,8 @@ Como principais conhecimentos adquiridos nesse processo posso destacar:
  - Conhecimentos de GIT
  
  **Projetos:** 
- - SHELL00 - 100%
- - SHELL01 - 100%
+ - SHELL 00 - 100%
+ - SHELL 01 - 100%
 
  - [C00 - 60%](42sp_projects/C00/) | [Breve descrição de cada exercicio](42sp_projects/C00/readmeC00.md)
 
@@ -34,6 +34,8 @@ Como principais conhecimentos adquiridos nesse processo posso destacar:
  - C04 - 50%
  - C05 - 60%
  - C06 - 70%
+ - RUSH 00
+ - RUSH 01
 
 Resultado final: **APROVADO!**
 
