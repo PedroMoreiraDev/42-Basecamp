@@ -32,4 +32,6 @@ Resiliência ao falhar e tentar novamente.
  - C05 - 60%
  - C06 - 70%
 
+Resultado final: **APROVADO!**
+
 Confira também [meu artigo](https://www.linkedin.com/pulse/o-que-20-dias-em-uma-das-melhores-escolas-de-software-pedro-moreira/?trackingId=DI8HeFoUSaafAqkXbKaC9Q%3D%3D) relatando um pouco mais a respeito da experiência na 42SP
