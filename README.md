@@ -1,4 +1,4 @@
-Este repositório contem os projetos elaborados durante a **Piscina da 42SP** (filial da francesa Ecole 42).
+Este repositório contem os projetos elaborados durante a **Piscina da [42SP](https://www.42sp.org.br/)** (filial da francesa Ecole 42).
 
 
 ![myimage-alt-tag](https://media-exp1.licdn.com/dms/image/C4D16AQFS_p1Vs1a4gw/profile-displaybackgroundimage-shrink_350_1400/0/1620075364105?e=1626912000&v=beta&t=7wuU9KeayBIsp17xeFiC3pgaBKYxKz7O40KsoYFbTRE)
@@ -18,8 +18,9 @@ Como principais conhecimentos adquiridos nesse processo posso destacar:
  - Uma forte base em lógica de programação e estrutura de dados.
  - Trabalho em equipe de forma dinâmica e orquestrada
  - Resiliência ao falhar e tentar novamente.
- - Conhecimento de Shell e C
- - Conhecimentos de GIT
+ - Técnicas de estudo autodidata ("aprender a aprender")
+ - Sintaxe de Shell Script e linguagem C
+ - Conhecimentos de GIT e Github
  
  **Projetos:** 
  - SHELL00 - 100%
