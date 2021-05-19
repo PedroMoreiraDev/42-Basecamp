@@ -5,7 +5,7 @@ Este repositório contem os projetos elaborados durante a **Piscina da 42SP** (f
 
 A Ecole 42, assim como suas filiais, é reconhecida mundialmente como uma das melhores escolas de programação do planeta.
 Possuindo uma metodologia desentralizada, em que não há horário fixo, professores ou aulas, o estudante aprende de maneira autodidata e colaborativa,
-junto com a comunidade que participa do processo, através da linguagem de programação C.
+junto com a comunidade que participa do processo através da linguagem de programação C.
 
  - **Piscina**:
  
