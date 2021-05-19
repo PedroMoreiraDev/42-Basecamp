@@ -3,7 +3,7 @@ Este repositório contem os projetos elaborados durante a **Piscina da [42SP](ht
 
 ![myimage-alt-tag](https://media-exp1.licdn.com/dms/image/C4D16AQFS_p1Vs1a4gw/profile-displaybackgroundimage-shrink_350_1400/0/1620075364105?e=1626912000&v=beta&t=7wuU9KeayBIsp17xeFiC3pgaBKYxKz7O40KsoYFbTRE)
 
-A Ecole 42, assim como suas diversas filiais espalhadas pelo mundo, é [reconhecida](https://www.youtube.com/watch?v=-wFFLo4FAbA&list=PLAEyiZ4gvW2q2zCFTDMvB_KRRbtb3tMFp&index=1) mundialmente como uma das melhores escolas de Engenharia de Software do planeta.
+A Ecole 42, assim como suas diversas filiais espalhadas pelo mundo, é [reconhecida](https://en.wikipedia.org/wiki/42_(school)) mundialmente como uma das melhores escolas de Engenharia de Software do planeta.
 Possuindo uma metodologia desentralizada, em que não há horário fixo, professores ou aulas, o estudante aprende de maneira autodidata e colaborativa,
 junto com a comunidade que participa do processo através da linguagem de programação C.
 
