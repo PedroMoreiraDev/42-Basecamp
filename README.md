@@ -23,7 +23,6 @@ Resiliência ao falhar e tentar novamente.
  - SHELL00 - 100%
  - SHELL01 - 100%
 
-[teste](docs/CONTRIBUTING.md)
 
  - C00 - 60%
  - C01 - 100%
