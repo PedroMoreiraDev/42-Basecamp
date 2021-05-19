@@ -9,16 +9,18 @@ junto com a comunidade que participa do processo através da linguagem de progra
 
  - **Piscina**:
  
-A piscina é o nome do processo de seleção imersivo no qual passei 21 dias de domingo a domingo programando em C e utilizando comandos no terminal Linux.
+A piscina é o nome do processo de seleção imersivo no qual passei 21 dias seguidos programando em C e criando scripts em Shell.
 
  - **Aprendizados**:
  
 Como principais conhecimentos adquiridos nesse processo posso destacar:
 
-Uma forte base em lógica de programação e estrutura de dados.
-Trabalho em equipe
-Resiliência ao falhar e tentar novamente.
-
+ - Uma forte base em lógica de programação e estrutura de dados.
+ - Trabalho em equipe de forma dinâmica e orquestrada
+ - Resiliência ao falhar e tentar novamente.
+ - Conhecimento de Shell e C
+ - Conhecimentos de GIT
+ 
  **Projetos:** 
  - SHELL00 - 100%
  - SHELL01 - 100%
