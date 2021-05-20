@@ -27,14 +27,12 @@ Como principais conhecimentos adquiridos nesse processo posso destacar:
  - SHELL01 - 100%
 
  - [C00 - 60%](42sp_projects/C00/) | [Breve descrição de cada exercicio](42sp_projects/C00/readmeC00.md)
-
- - C00 - 60%
- - C01 - 100%
- - C02 - 75%
- - C03 - 50%
- - C04 - 50%
- - C05 - 60%
- - C06 - 70%
+ - [C01 - 100%](42sp_projects/C01/)
+ - [C02 - 75%](42sp_projects/C02/)
+ - [C03 - 50%](42sp_projects/C03/)
+ - [C04 - 50%](42sp_projects/C04/)
+ - [C05 - 60%](42sp_projects/C05/)
+ - [C06 - 70%](42sp_projects/C06/)
  - RUSH00
  - RUSH01
 
