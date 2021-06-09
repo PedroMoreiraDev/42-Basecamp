@@ -56,10 +56,10 @@ O Basecamp é um bootcamp de programação C que possui a duração de 20 dias. 
     Trabalho em equipe:
     
                 Nos finais de semana, é proposto um projeto de equipe que dura 48h, chamado de "Rush":
-                 A equipe do rush é formada por um grupo de 3 membros escolhidos aleatoriamente pelo 
-                sistema da escola. Juntos os membros devem desenvolver colaborativamente um aplicativo 
+                A equipe do rush é formada por um grupo de 3 membros escolhidos aleatoriamente pelo 
+                sistema da escola. Juntos, os membros devem desenvolver colaborativamente um aplicativo 
                 executavel. O grande desafio aqui é igualar os diferentes níveis de conhecimento ao mesmo
-                tempo em que encontra uma metodologia de trabalho comum que permite que todos os membros
+                tempo em que devem encontrar uma metodologia de trabalho comum que permite que todos os membros
                 da equipe contribuam para o projeto.
 
     Empatia:
