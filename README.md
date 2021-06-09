@@ -13,17 +13,70 @@ O Basecamp é um bootcamp de programação C que possui a duração de 20 dias. 
 
 ![myimage-alt-tag](https://user-images.githubusercontent.com/72752848/116312260-973ee280-a782-11eb-965d-82811bde546a.png)
 
- ## Aprendizados:
+ ## Habilidades desenvolvidas durante o Basecamp:
  
-Como principais conhecimentos adquiridos nesse processo posso destacar:
+### Hard Skills
 
- - Uma forte base em lógica de programação e estrutura de dados.
- - Trabalho em equipe de forma dinâmica e orquestrada
- - Resiliência ao falhar e tentar novamente.
- - Técnicas de estudo autodidata ("aprender a aprender")
- - Sintaxe de Shell Script e linguagem C
- - Conhecimentos de GIT e Github
+     Linguagem C e lógica de programação:
+    
+                C é a principal linguagem utilizada durante o basecamp. Ela é conhecida como
+                "a linguagem das linguagens de programação", e permite o acesso mais direto a 
+                memória de baixo nível do computador, auxiliando o aluno a desenvolver uma base
+                lógica sólida e versátil. Para resolver os desafios precisamos dominar recursos 
+                como operadores, variaveis,ponteiros, alocação de memória dinâmica, bibliotecas
+                e entre outros.
+
+    Shell:          
+    
+                As duas primeiras listas de exercicios são em Shell e mesclam a 
+                necessidade de conhecer comandos mais básicos para conseguir realizar
+                pequenas tarefas cotidianas, com comandos avançados que permitem a organização
+                e a modificação de arquivos em massa, gerando uma enorme familiaridade com o terminal.
+                
+    GIT:
+    
+                Todos os projetos precisam ser submetidos a um repositório GIT, devido a isso foi
+                essencial dominar GIT desde o ínicio do Basecamp.
  
+ ### Soft Skills
+
+    Auto-aprendizagem e Colaboração:
+    
+                Na 42, ser autodidata está no centro de sua metodologia, assim como a aprendizagem entre pares.
+                Não há professores ou aulas, o processo de aprendizagem é baseado em pesquisar por contra própria 
+                e questionar seus colegas de classe. Cada aluno aprende em seu próprio ritmo, ajudando uns aos outros
+                com seus conhecimentos.
+
+    Gerenciamento de tempo e resiliência:
+    
+                Você pode programar 24 horas por dia, 7 dias por semana, mas há muito trabalho para se fazer.
+                Devido a isso, aprender a gerenciar seu tempo da melhor forma é extremamente importante para 
+                conseguir cumprir com os desafios, assim como a resiliência para falhar em um projeto, corrigi-lo
+                e submete-lo novamente.
+    
+    Trabalho em equipe:
+    
+                Nos finais de semana, é proposto um projeto de equipe que dura 48h, chamado de "**Rush**":
+                É formado um grupo de 3 membros escolhidos aleatoriamente pelo sistema da escola. Juntos os
+                membros devem desenvolver colaborativamente um aplicativo executavel.
+                O grande desafio aqui é igualar os diferentes níveis de conhecimento ao mesmo tempo em que 
+                encontra uma metodologia de trabalho comum que permite que todos os membros da equipe contribuam
+                para o projeto.
+
+    Empatia:
+    
+                Uma das soft skills mais praticados durante todo o processo. É importante notar que todos
+                possuem dificuldades, e é importante dedicar algum tempo para falar com as pessoas e ouvi-las.
+                
+     Code Review:
+     
+                Após submeter os projetos, os alunos precisam passar pela avaliação de dois outros alunos
+                antes de ter seu código corrigido pelos testes automatizados da 42SP.
+                Em contrapartida, para poder ser avaliado, o aluno precisa de pontos que ele recebe avaliando
+                outros alunos, o que gera a necessidade de realizar dezenas de code reviews e fornecer vários 
+                feedbacks durante o basecamp.
+                
+                
  ## Projetos:
  
  - SHELL00 - 100%
