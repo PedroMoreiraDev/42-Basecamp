@@ -4,8 +4,7 @@ Este repositório contem os projetos elaborados durante o **Basecamp da [42SP](h
 ![myimage-alt-tag](https://media-exp1.licdn.com/dms/image/C4D16AQFS_p1Vs1a4gw/profile-displaybackgroundimage-shrink_350_1400/0/1620075364105?e=1626912000&v=beta&t=7wuU9KeayBIsp17xeFiC3pgaBKYxKz7O40KsoYFbTRE)
 
 A Ecole 42, assim como suas diversas filiais espalhadas pelo mundo, é [reconhecida](https://en.wikipedia.org/wiki/42_(school)) mundialmente como uma das melhores escolas de Engenharia de Software do planeta.
-Possuindo uma metodologia desentralizada, em que não há horário fixo, professores, classes ou aulas, o estudante aprende de maneira autodidata e colaborativa,
-junto com a comunidade que participa do processo através da linguagem de programação C.
+Possuindo uma metodologia desentralizada, em que não há horário fixo, professores, classes ou aulas, o estudante aprende de maneira autodidata e colaborativa, junto com a comunidade que participa do processo através da linguagem de programação C.
 
  ## Basecamp:
  
@@ -23,7 +22,7 @@ O Basecamp é um bootcamp de programação C que possui a duração de 20 dias. 
                 "a linguagem das linguagens de programação", e permite o acesso mais direto a 
                 memória de baixo nível do computador, auxiliando o aluno a desenvolver uma base
                 lógica sólida e versátil. Para resolver os desafios precisamos dominar recursos 
-                como operadores, variaveis,ponteiros, alocação de memória dinâmica, bibliotecas
+                como operadores, variaveis, ponteiros, alocação de memória dinâmica, bibliotecas
                 e entre outros.
 
     Shell:          
@@ -56,12 +55,12 @@ O Basecamp é um bootcamp de programação C que possui a duração de 20 dias. 
     
     Trabalho em equipe:
     
-                Nos finais de semana, é proposto um projeto de equipe que dura 48h, chamado de "**Rush**":
-                É formado um grupo de 3 membros escolhidos aleatoriamente pelo sistema da escola. Juntos os
-                membros devem desenvolver colaborativamente um aplicativo executavel.
-                O grande desafio aqui é igualar os diferentes níveis de conhecimento ao mesmo tempo em que 
-                encontra uma metodologia de trabalho comum que permite que todos os membros da equipe contribuam
-                para o projeto.
+                Nos finais de semana, é proposto um projeto de equipe que dura 48h, chamado de "Rush":
+                 A equipe do rush é formada por um grupo de 3 membros escolhidos aleatoriamente pelo 
+                sistema da escola. Juntos os membros devem desenvolver colaborativamente um aplicativo 
+                executavel. O grande desafio aqui é igualar os diferentes níveis de conhecimento ao mesmo
+                tempo em que encontra uma metodologia de trabalho comum que permite que todos os membros
+                da equipe contribuam para o projeto.
 
     Empatia:
     
