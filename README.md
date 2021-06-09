@@ -1,4 +1,4 @@
-Este repositório contem os projetos elaborados durante a **Piscina da [42SP](https://www.42sp.org.br/)** (filial da francesa Ecole 42).
+Este repositório contem os projetos elaborados durante o **Basecamp da [42SP](https://www.42sp.org.br/)** (filial da francesa Ecole 42).
 
 
 ![myimage-alt-tag](https://media-exp1.licdn.com/dms/image/C4D16AQFS_p1Vs1a4gw/profile-displaybackgroundimage-shrink_350_1400/0/1620075364105?e=1626912000&v=beta&t=7wuU9KeayBIsp17xeFiC3pgaBKYxKz7O40KsoYFbTRE)
