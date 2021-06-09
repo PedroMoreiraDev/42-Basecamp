@@ -30,7 +30,8 @@ O Basecamp é um bootcamp de programação C que possui a duração de 20 dias. 
                 As duas primeiras listas de exercicios são em Shell e mesclam a 
                 necessidade de conhecer comandos mais básicos para conseguir realizar
                 pequenas tarefas cotidianas, com comandos avançados que permitem a organização
-                e a modificação de arquivos em massa, gerando uma enorme familiaridade com o terminal.
+                e a modificação de arquivos em massa, gerando uma enorme familiaridade com o 
+                terminal.
                 
     GIT:
     
@@ -41,17 +42,17 @@ O Basecamp é um bootcamp de programação C que possui a duração de 20 dias. 
 
     Auto-aprendizagem e Colaboração:
     
-                Na 42, ser autodidata está no centro de sua metodologia, assim como a aprendizagem entre pares.
-                Não há professores ou aulas, o processo de aprendizagem é baseado em pesquisar por contra própria 
-                e questionar seus colegas de classe. Cada aluno aprende em seu próprio ritmo, ajudando uns aos outros
-                com seus conhecimentos.
+                Na 42, ser autodidata está no centro de sua metodologia, assim como a aprendizagem
+                entre pares. Não há professores ou aulas, o processo de aprendizagem é baseado em 
+                pesquisar por contra própria e questionar seus colegas de classe. Cada aluno aprende
+                em seu próprio ritmo, ajudando uns aos outros com seus conhecimentos.
 
     Gerenciamento de tempo e resiliência:
     
-                Você pode programar 24 horas por dia, 7 dias por semana, mas há muito trabalho para se fazer.
-                Devido a isso, aprender a gerenciar seu tempo da melhor forma é extremamente importante para 
-                conseguir cumprir com os desafios, assim como a resiliência para falhar em um projeto, corrigi-lo
-                e submete-lo novamente.
+                Você pode programar 24 horas por dia, 7 dias por semana, mas há muito trabalho para
+                se fazer. Devido a isso, aprender a gerenciar seu tempo da melhor forma é extremamente
+                importante para conseguir cumprir com os desafios, assim como a resiliência para falhar
+                em projetos, corrigi-los e submete-los novamente.
     
     Trabalho em equipe:
     
@@ -59,13 +60,14 @@ O Basecamp é um bootcamp de programação C que possui a duração de 20 dias. 
                 A equipe do rush é formada por um grupo de 3 membros escolhidos aleatoriamente pelo 
                 sistema da escola. Juntos, os membros devem desenvolver colaborativamente um aplicativo 
                 executavel. O grande desafio aqui é igualar os diferentes níveis de conhecimento ao mesmo
-                tempo em que devem encontrar uma metodologia de trabalho comum que permite que todos os membros
-                da equipe contribuam para o projeto.
+                tempo em que devem encontrar uma metodologia de trabalho comum que permite que todos os
+                membros da equipe contribuam para o projeto.
 
     Empatia:
     
                 Uma das soft skills mais praticados durante todo o processo. É importante notar que todos
-                possuem dificuldades, e é importante dedicar algum tempo para falar com as pessoas e ouvi-las.
+                possuem dificuldades, e é importante dedicar algum tempo para falar com as pessoas 
+                e ouvi-las.
                 
      Code Review:
      
