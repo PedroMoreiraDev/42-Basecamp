@@ -49,8 +49,8 @@ O Basecamp é um bootcamp de programação C que possui a duração de 20 dias. 
 
     Gerenciamento de tempo e resiliência:
     
-                Você pode programar 24 horas por dia, 7 dias por semana, mas há muito trabalho para
-                se fazer. Devido a isso, aprender a gerenciar seu tempo da melhor forma é 
+                Você pode programar 24 horas por dia, 7 dias por semana, mas há muito trabalho 
+                para se fazer. Devido a isso, aprender a gerenciar seu tempo da melhor forma é 
                 extremamente importante para conseguir cumprir com os desafios, assim como a 
                 resiliência para falhar em projetos, corrigi-los e submete-los novamente.
     
@@ -73,9 +73,9 @@ O Basecamp é um bootcamp de programação C que possui a duração de 20 dias. 
      Code Review:
      
                 Após submeter os projetos, os alunos precisam passar pela avaliação de dois 
-                outros alunos antes de ter seu código corrigido pelos testes automatizados da 42SP.
-                Em contrapartida, para poder ser avaliado, o aluno precisa de pontos que ele recebe 
-                avaliando outros alunos, o que gera a necessidade de realizar dezenas de code 
+                outros alunos antes de ter seu código corrigido pelos testes automatizados da 
+                42SP. Em contrapartida, para poder ser avaliado, o aluno precisa de pontos que ele 
+                recebe avaliando outros alunos, o que gera a necessidade de realizar dezenas de code 
                 reviews e fornecer vários feedbacks durante o basecamp.
                 
                 
