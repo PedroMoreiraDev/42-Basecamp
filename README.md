@@ -7,11 +7,13 @@ A Ecole 42, assim como suas diversas filiais espalhadas pelo mundo, é [reconhec
 Possuindo uma metodologia desentralizada, em que não há horário fixo, professores, classes ou aulas, o estudante aprende de maneira autodidata e colaborativa,
 junto com a comunidade que participa do processo através da linguagem de programação C.
 
- - **Piscina**:
+ ## Basecamp:
  
-A piscina é o nome do processo de seleção imersivo no qual passei 21 dias seguidos programando em C e criando scripts em Shell.
+O Basecamp é um bootcamp de programação C que possui a duração de 20 dias. É a última etapa do processo seletivo para se tornar um "cadete" (aluno da 42).
 
- - **Aprendizados**:
+![myimage-alt-tag](https://user-images.githubusercontent.com/72752848/116312260-973ee280-a782-11eb-965d-82811bde546a.png)
+
+ ## Aprendizados:
  
 Como principais conhecimentos adquiridos nesse processo posso destacar:
 
@@ -22,7 +24,8 @@ Como principais conhecimentos adquiridos nesse processo posso destacar:
  - Sintaxe de Shell Script e linguagem C
  - Conhecimentos de GIT e Github
  
- **Projetos:** 
+ ## Projetos:
+ 
  - SHELL00 - 100%
  - SHELL01 - 100%
 
