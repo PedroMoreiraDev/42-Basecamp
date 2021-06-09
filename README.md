@@ -28,9 +28,9 @@ O Basecamp é um bootcamp de programação C que possui a duração de 20 dias. 
     Shell:          
     
                 As duas primeiras listas de exercicios são em Shell e mesclam a 
-                necessidade de conhecer comandos mais básicos para conseguir realizar
-                pequenas tarefas cotidianas, com comandos avançados que permitem a organização
-                e a modificação de arquivos em massa, gerando uma enorme familiaridade com o 
+                necessidade de conhecer comandos mais básicos para conseguir realizar pequenas
+                tarefas cotidianas, com comandos avançados que permitem a organização e
+                modificação de arquivos em massa, gerando uma enorme familiaridade com o 
                 terminal.
                 
     GIT:
@@ -74,9 +74,9 @@ O Basecamp é um bootcamp de programação C que possui a duração de 20 dias. 
      
                 Após submeter os projetos, os alunos precisam passar pela avaliação de dois 
                 outros alunos antes de ter seu código corrigido pelos testes automatizados da 
-                42SP. Em contrapartida, para poder ser avaliado, o aluno precisa de pontos que ele 
-                recebe avaliando outros alunos, o que gera a necessidade de realizar dezenas de code 
-                reviews e fornecer vários feedbacks durante o basecamp.
+                42SP. Em contrapartida, para poder ser avaliado, o aluno precisa de pontos que 
+                ele recebe avaliando outros alunos, o que gera a necessidade de realizar dezenas 
+                de code reviews e fornecer vários feedbacks durante o basecamp.
                 
                 
  ## Projetos:
