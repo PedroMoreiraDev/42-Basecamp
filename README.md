@@ -44,38 +44,38 @@ O Basecamp é um bootcamp de programação C que possui a duração de 20 dias. 
     
                 Na 42, ser autodidata está no centro de sua metodologia, assim como a aprendizagem
                 entre pares. Não há professores ou aulas, o processo de aprendizagem é baseado em 
-                pesquisar por contra própria e questionar seus colegas de classe. Cada aluno aprende
-                em seu próprio ritmo, ajudando uns aos outros com seus conhecimentos.
+                pesquisar por contra própria e questionar seus colegas de classe. Cada aluno 
+                aprende em seu próprio ritmo, ajudando uns aos outros com seus conhecimentos.
 
     Gerenciamento de tempo e resiliência:
     
                 Você pode programar 24 horas por dia, 7 dias por semana, mas há muito trabalho para
-                se fazer. Devido a isso, aprender a gerenciar seu tempo da melhor forma é extremamente
-                importante para conseguir cumprir com os desafios, assim como a resiliência para falhar
-                em projetos, corrigi-los e submete-los novamente.
+                se fazer. Devido a isso, aprender a gerenciar seu tempo da melhor forma é 
+                extremamente importante para conseguir cumprir com os desafios, assim como a 
+                resiliência para falhar em projetos, corrigi-los e submete-los novamente.
     
     Trabalho em equipe:
     
                 Nos finais de semana, é proposto um projeto de equipe que dura 48h, chamado de "Rush":
                 A equipe do rush é formada por um grupo de 3 membros escolhidos aleatoriamente pelo 
-                sistema da escola. Juntos, os membros devem desenvolver colaborativamente um aplicativo 
-                executavel. O grande desafio aqui é igualar os diferentes níveis de conhecimento ao mesmo
-                tempo em que devem encontrar uma metodologia de trabalho comum que permite que todos os
-                membros da equipe contribuam para o projeto.
+                sistema da escola. Juntos, os membros devem desenvolver colaborativamente um 
+                aplicativo executavel. O grande desafio aqui é igualar os diferentes níveis de 
+                conhecimento ao mesmo tempo em que devem encontrar uma metodologia de trabalho comum
+                que permite que todos osmembros da equipe contribuam para o projeto.
 
     Empatia:
     
-                Uma das soft skills mais praticados durante todo o processo. É importante notar que todos
-                possuem dificuldades, e é importante dedicar algum tempo para falar com as pessoas 
-                e ouvi-las.
+                Uma das soft skills mais praticados durante todo o processo. É importante notar que
+                todos possuem dificuldades, e é importante dedicar algum tempo para falar com as 
+                pessoas e ouvi-las.
                 
      Code Review:
      
                 Após submeter os projetos, os alunos precisam passar pela avaliação de dois outros alunos
                 antes de ter seu código corrigido pelos testes automatizados da 42SP.
-                Em contrapartida, para poder ser avaliado, o aluno precisa de pontos que ele recebe avaliando
-                outros alunos, o que gera a necessidade de realizar dezenas de code reviews e fornecer vários 
-                feedbacks durante o basecamp.
+                Em contrapartida, para poder ser avaliado, o aluno precisa de pontos que ele recebe 
+                avaliando outros alunos, o que gera a necessidade de realizar dezenas de code reviews e
+                fornecer vários feedbacks durante o basecamp.
                 
                 
  ## Projetos:
