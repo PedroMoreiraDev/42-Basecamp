@@ -56,26 +56,27 @@ O Basecamp é um bootcamp de programação C que possui a duração de 20 dias. 
     
     Trabalho em equipe:
     
-                Nos finais de semana, é proposto um projeto de equipe que dura 48h, chamado de "Rush":
-                A equipe do rush é formada por um grupo de 3 membros escolhidos aleatoriamente pelo 
-                sistema da escola. Juntos, os membros devem desenvolver colaborativamente um 
-                aplicativo executavel. O grande desafio aqui é igualar os diferentes níveis de 
-                conhecimento ao mesmo tempo em que devem encontrar uma metodologia de trabalho comum
-                que permite que todos osmembros da equipe contribuam para o projeto.
+                Nos finais de semana, é proposto um projeto de equipe que dura 48h, chamado de 
+                "Rush":
+                A equipe do rush é formada por um grupo de 3 membros escolhidos aleatoriamente
+                pelo sistema da escola. Juntos, os membros devem desenvolver colaborativamente
+                um aplicativo executavel. O grande desafio aqui é igualar os diferentes níveis
+                de conhecimento ao mesmo tempo em que devem encontrar uma metodologia de trabalho
+                comum que permite que todos osmembros da equipe contribuam para o projeto.
 
     Empatia:
     
-                Uma das soft skills mais praticados durante todo o processo. É importante notar que
-                todos possuem dificuldades, e é importante dedicar algum tempo para falar com as 
-                pessoas e ouvi-las.
+                Uma das soft skills mais praticados durante todo o processo. É importante 
+                notar que todos possuem dificuldades, e é importante dedicar algum tempo para
+                falar com as pessoas e ouvi-las.
                 
      Code Review:
      
-                Após submeter os projetos, os alunos precisam passar pela avaliação de dois outros alunos
-                antes de ter seu código corrigido pelos testes automatizados da 42SP.
+                Após submeter os projetos, os alunos precisam passar pela avaliação de dois 
+                outros alunos antes de ter seu código corrigido pelos testes automatizados da 42SP.
                 Em contrapartida, para poder ser avaliado, o aluno precisa de pontos que ele recebe 
-                avaliando outros alunos, o que gera a necessidade de realizar dezenas de code reviews e
-                fornecer vários feedbacks durante o basecamp.
+                avaliando outros alunos, o que gera a necessidade de realizar dezenas de code 
+                reviews e fornecer vários feedbacks durante o basecamp.
                 
                 
  ## Projetos:
