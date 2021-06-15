@@ -82,7 +82,7 @@ O Basecamp é um bootcamp de programação C que possui a duração de 20 dias. 
  ## Projetos:
  
  - SHELL00 - 100%
- - SHELL01 - 100%
+ - [SHELL01 - 100%](https://github.com/PedroMoreiraDev/42-Basecamp/tree/main/42sp_projects/Shell01)
 
  - [C00 - 60%](42sp_projects/C00/)
  - [C01 - 100%](42sp_projects/C01/)
