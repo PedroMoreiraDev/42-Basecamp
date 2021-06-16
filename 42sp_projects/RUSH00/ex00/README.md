@@ -1,11 +1,12 @@
 ## Sobre o Rush
-            Nos finais de semana, é proposto um projeto de equipe que dura 48h, chamado de 
-            "Rush":
-            A equipe do rush é formada por um grupo de 3 membros escolhidos aleatoriamente
-            pelo sistema da escola. Juntos, os membros devem desenvolver colaborativamente
-            um aplicativo executavel. O grande desafio aqui é igualar os diferentes níveis
-            de conhecimento ao mesmo tempo em que devem encontrar uma metodologia de trabalho
-            comum que permite que todos osmembros da equipe contribuam para o projeto.
+            
+    Nos finais de semana, é proposto um projeto de equipe que dura 48h, chamado de 
+    "Rush":
+    A equipe do rush é formada por um grupo de 3 membros escolhidos aleatoriamente
+    pelo sistema da escola. Juntos, os membros devem desenvolver colaborativamente
+    um aplicativo executavel. O grande desafio aqui é igualar os diferentes níveis
+    de conhecimento ao mesmo tempo em que devem encontrar uma metodologia de trabalho
+    comum que permite que todos osmembros da equipe contribuam para o projeto.
 
 
 
