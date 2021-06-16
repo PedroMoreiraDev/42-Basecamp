@@ -24,7 +24,7 @@ Depois, dentro da pasta do Rush00 execute o seguinte comando:
 
 Após isso, rode o executavel com
 
-    ./a.out
+    $./a.out
 
 ## Objetivos
 ![](https://sun9-6.userapi.com/impg/rgtA676x8PeX6rqBANWdGjKolTLP0AEtpPQb1g/YaEFBMBLwRc.jpg?size=651x285&quality=96&sign=eb54f73ff9c31ceed0fbe69e47eb7a4f&type=album)
